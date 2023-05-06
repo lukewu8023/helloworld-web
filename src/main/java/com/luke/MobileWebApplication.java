@@ -1,4 +1,4 @@
-package com.example;
+package com.luke;
 
 
 import org.springframework.boot.SpringApplication;
